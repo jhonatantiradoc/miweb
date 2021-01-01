@@ -1,4 +1,13 @@
 body{
     background-color: aqua;
-    color: black;
+    color: green;
+}
+
+h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+p{
+    color: red;    
 }
