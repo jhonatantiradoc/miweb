@@ -1,5 +1,1 @@
-# Titulo de la aplicación
-- Esta es una aplicación para aprender github
-- Es una aplicación de prueba
-
-## Archivos y carpetas
+# Este es el readme actualizado
